@@ -73,7 +73,7 @@ I have designed and developed robots for **autonomous navigation, robot soccer, 
 | Competition | Result | Main Focus |
 |---|---:|---|
 | [**TPA Robo Rescue with micro-ROS 2025**](competitions/roborescue.md) | 🥇 1st Place | micro-ROS · LiDAR · AMCL |
-| [**WRO Future Engineers International 2023**](competitions/wroin2023.md) | **7th / 60 Countries** | Autonomous Navigation |
+| [**WRO Future Engineers International 2023**](competitions/WRO%20Future%20Engineers%20International%202023.md) | **7th / 60 Countries** | Autonomous Navigation |
 | [**WRO Future Engineers Thailand 2023**](competitions/wroth2023.md) | 🥇 1st Place | Autonomous Navigation |
 | [**RoboCup Singapore Soccer Open 2025**](competitions/robocup.md) | 🥈 1st Runner-Up | Computer Vision · Omni Drive |
 | [**WRG Soccer Robot 1v1**](competitions/wrg.md) | 4th Place | Computer Vision · Omni Drive |
