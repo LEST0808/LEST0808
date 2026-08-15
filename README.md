@@ -79,7 +79,7 @@ I have designed and developed robots for **autonomous navigation, robot soccer, 
 | [**WRG Soccer Robot 1v1**](competitions/wrg.md) | 4th Place | Computer Vision · Omni Drive |
 | [**WRO Future Engineers Thailand 2024**](competitions/fe2024.md) | 4th Place | Autonomous Navigation |
 | [**46 ICT Fast Line Tracing**](competitions/46ict.md) | 🥇 Gold Medal | PID · Embedded Systems |
-| [**Silapa 71 Intermediate Robotics**](competitions/silapa.md) | 🥇 Gold Medal | Maze Solving |
+| [**Silapa 71 Intermediate Robotics**](competitions/silipa.md) | 🥇 Gold Medal | Maze Solving |
 | [**LEGO Robot Battle**](competitions/lego.md) | 🥈 First Runner-Up | Mechanical Design |
 | [**PIM Robotics Playground Line Tracing**](competitions/pim.md) | Participation | PID · 3D Design |
 
