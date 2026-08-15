@@ -1,7 +1,7 @@
 # 🥈 LEGO Robot Battle
 
 <p align="center">
-<img src="https://github.com/LEST0808/LEST0808/blob/main/resources/gallery/lego-robot-battle/lego-robot-battle.png" width="800">
+<img src="https://github.com/LEST0808/LEST0808/blob/main/resources/gallery/Lego%20Robot%20Battle/battlebot.png" width="800">
 </p>
 
 > **2nd Place — First Runner-Up**  
