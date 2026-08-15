@@ -1,7 +1,7 @@
 # 🥇 TPA Robo Rescue with micro-ROS 2025
 
 <p align="center">
-<img src="resources/gallery/tpa/tpa.png" width="100" height="100">
+<img src="https://github.com/LEST0808/LEST0808/blob/main/resources/gallery/tpa/roborescue.png" width="800">
 </p>
 
 > **1st Place**  
