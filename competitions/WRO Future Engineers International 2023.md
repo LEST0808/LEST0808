@@ -26,7 +26,9 @@ I worked with:
 - Camera-based obstacle detection
 - Ultrasonic sensors for navigation
 - Light sensors for detecting colored lines and turning directions
-- Technical documentation required for the competition
+- Competition document
+- Robot design
+- Robot circuit system
 
 ---
 
@@ -35,6 +37,8 @@ I worked with:
 The robot used a **POP-32 microcontroller**, camera, ultrasonic sensors, and two colored light sensors.
 
 The camera and ultrasonic sensors were used for **obstacle detection and navigation**, while the light sensors detected the colored lines that determined the robot's turning direction.
+
+Since the national round, we tried a lot of robot design, one of those uses a new steering system called "Ackerman Steering". This system allows the wheel on the inside to turn at a sharper angle than the outside wheel, resulting in even better turns. While other functions mirror those of national round. We upgraded the microcontroller to be a pre-built PCB board, removing the need to use other extensions like motor driver and sensor shield.
 
 ### Main Technologies
 
