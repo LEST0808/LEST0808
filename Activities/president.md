@@ -1,7 +1,7 @@
 # 👑 President — Yothinburana Robot Club
 
 <p align="center">
-<img src="https://github.com/LEST0808/LEST0808/blob/main/resources/gallery/robot-club/robot-club.png" width="800">
+<img src="https://github.com/LEST0808/LEST0808/blob/main/resources/gallery/Robot%20Club%20President/clubpresident.png" width="800">
 </p>
 
 > Leadership · Technical Mentoring · Team Management · Robotics
