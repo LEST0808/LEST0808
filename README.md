@@ -94,7 +94,7 @@ I have designed and developed robots for **autonomous navigation, robot soccer, 
 | [**President — Yothinburana Robot Club**](Activities/president.md) | Leadership | Team Leadership · Mentoring · Robotics |
 | [**NECTEC Smart Summer Internship**](Activities/nectec.md) | Internship | Computer Vision · Internship · Real-World Working |
 | [**Harbin Engineering University — AI Training Camp**](Activities/harbin-ai-training-camp.md) | Study Abroad | Artificial Intelligence · Academic Experience |
-| [**TPA Robo Rescue 2024 Qualification**](Activities/tpa-robo-rescue-2024.md) | Competition Qualification | Robotics · Autonomous Systems |
+| [**TPA Robo Rescue 2024 Qualification**](Activities/TPA2024%20Test.md) | Competition Qualification | Robotics · Autonomous Systems |
 | [**YB Robot Starter Camp**](Activities/yb-robot-starter-camp.md) | Mentoring | Robotics · Programming · Education |
 | [**YB Robot Open House**](Activities/yb-robot-open-house.md) | Outreach | Robotics · Communication · Community |
 | [**Thailand's National Outstanding Youth Award**](Activities/national-outstanding-youth-award.md) | Award | National Recognition · International Representation |
