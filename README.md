@@ -17,10 +17,18 @@ Over the years, I have developed autonomous robotic systems involving **embedded
 
 I have competed in both national and international robotics competitions, including **7th place out of 60 countries at WRO Future Engineers International 2023 in Panama**, **First Runner-Up at RoboCup Singapore Soccer Open 2025**, and **First Place at TPA Robo Rescue with micro-ROS 2025**.
 
-Beyond competitions, I served as **President of the Yothinburana Robot Club**, where I mentored junior members, prepared competition teams, and organized robotics activities and training programs.
-> **[📄 Click here to view my recommendation letter From Club Advisor](resources/RecommendationLetter-A.Punnapon.pdf)**
+Beyond competitions, I served as **President of the Yothinburana Robot Club**, where I mentored junior members, prepared competition teams, and organized robotics activities and training programs. I also received the **Thailand's National Outstanding Youth Award**, recognizing youths who represent Thailand and contribute on the international stage.
 
-I am currently learning beyond robotics into **software development, machine learning, and computer vision**, with the goal of developing intelligent systems that combine **software, hardware, and AI**.
+> **[📄 Click here to view my recommendation letter from my Club Advisor](resources/RecommendationLetter-A.Punnapon.pdf)**
+
+I am currently expanding my interests beyond robotics into **software development, machine learning, and computer vision**, with the goal of developing intelligent systems that combine **software, hardware, and AI**.
+
+---
+
+## 📱 Contacts
+- Gmail: gain2551@gmail.com
+- Instagram: gain._.vichaiwat
+- Line: gain20052551
 
 ---
 
