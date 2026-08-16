@@ -40,6 +40,8 @@ The camera and ultrasonic sensors were used for **obstacle detection and navigat
 
 Since the national round, we tried a lot of robot design, one of those uses a new steering system called "Ackerman Steering". This system allows the wheel on the inside to turn at a sharper angle than the outside wheel, resulting in even better turns. While other functions mirror those of national round. We upgraded the microcontroller to be a pre-built PCB board, removing the need to use other extensions like motor driver and sensor shield.
 
+> **[📄 Click here to view robot's documentation](https://github.com/Snackels/WRO_Future-Engineer_Sunflower)**
+
 ### Main Technologies
 
 `Arduino` `POP-32` `Computer Vision` `Ultrasonic Sensors` `Light Sensors`
